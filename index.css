@@ -11,8 +11,6 @@ body {
     padding: 0;
 }
 
-/* UTILITIES*/
-
 /* LAYOUT */
 .container{
     padding: 2px 16px;
@@ -26,7 +24,6 @@ body {
     border-radius: 20px;
     text-align: center;
 }
-
 
 .qr-section{
     padding: 16px;
@@ -57,5 +54,3 @@ body {
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
-
-/* MEDIA QUERIES */
